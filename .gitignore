@@ -1,2 +1,36 @@
+# General
+.cache
+.config
+.cups
+.local
+.viminfo
+Applications
+Backgrounds
+Desktop
+Documents
+Downloads
+Library
+Movies
+Music
+Pictures
+Public
 
+# ZSH
+.zcompdump*
+.zsh-update
+
+# SSH
+.ssh
+
+# History
+.bash_history
+.zsh_history
+
+# Node / NPM
+node_modules
+.node-gyp
+.npm
+.nvm
+
+# Mac OS X Specific
 .DS_Store
