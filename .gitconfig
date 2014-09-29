@@ -1,0 +1,9 @@
+[user]
+	name = Brad Plank
+	email = bradley.plank@globaloptions.com
+[push]
+	default = simple
+[core]
+	editor = nano
+[color]
+	ui = true
